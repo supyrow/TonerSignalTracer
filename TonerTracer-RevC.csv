@@ -1,0 +1,24 @@
+Reference; Value; Footprint; Datasheet
+9VBATT;2238e;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal;http://keyelco.com/userAssets/file/M65p30.pdf
+C1;10uF @ 16V;Capacitor_SMD:CP_Elec_4x5.3;
+C2;47uF @ 16V;Capacitor_SMD:CP_Elec_6.3x5.3;
+C3;100uF @ 16V;Capacitor_SMD:CP_Elec_8x6.5;
+C4;100nF;Capacitor_SMD:C_0805_2012Metric;
+C5;10uF @ 16V;Capacitor_SMD:CP_Elec_4x5.3;
+C6;47nF;Capacitor_SMD:C_0805_2012Metric;
+C7;10uF @ 16V;Capacitor_SMD:CP_Elec_4x5.3;
+C8;220uF @ 16V;Capacitor_SMD:CP_Elec_8x6.5;
+R1;1M;Resistor_SMD:R_0805_2012Metric;
+R2;470K;Resistor_SMD:R_0805_2012Metric;
+R3;680K;Resistor_SMD:R_0805_2012Metric;
+R4;3.3K;Resistor_SMD:R_1206_3216Metric;
+R5;4.7K;Resistor_SMD:R_0805_2012Metric;
+R6;10R;Resistor_SMD:R_0805_2012Metric;
+R7;0R;Resistor_SMD:R_1206_3216Metric;
+SW1;SPST-MOMENTARY;Button_Switch_THT:SW_PUSH_6mm_h8mm;
+P1;INDUCTOR PROBE;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal;
+SPKR;SP-1605 Soberton;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal;http://cirlw3yrzg4afc1x47lv2k18.wpengine.netdna-cdn.com/wp-content/uploads/2016/12/SP-1605-new.pdf
+Q1;MMBF4416A;Package_TO_SOT_SMD:SOT-23;http://www.mouser.com/ds/2/149/MMBF4416A-889828.pdf
+U1;LM386M-1;Package_SOIC:SOIC-8_3.9x4.9mm_P1.27mm;http://www.ti.com/lit/ds/symlink/lm386.pdf
+PCB1;PCB-VK-62AA;MyCustomParts:PCB-VK-62AA-HALF;https://www.polycase.com/uploads/192971300736413.PDF
+ENCLOSURE;VK-62AA;;https://www.polycase.com/uploads/192971300736413.PDF
